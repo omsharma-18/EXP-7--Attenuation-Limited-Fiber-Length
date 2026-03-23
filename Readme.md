@@ -83,3 +83,12 @@ Your report should contain:
   
 
 - **Written Summary** of observations and explanations of differences.  
+
+## Calculation and Tabulation
+
+<img width="735" height="1280" alt="image" src="https://github.com/user-attachments/assets/1a1ab31b-be03-4384-8508-f1be04fe4301" />
+<img width="740" height="1280" alt="image" src="https://github.com/user-attachments/assets/bc44e180-1ded-4dbc-9d07-c7e7ecc4f8c3" />
+<img width="1506" height="2560" alt="image" src="https://github.com/user-attachments/assets/dc6abf1f-055b-46bc-8a8e-02a6ed21dc5e" />
+
+## Result 
+Thus Attenuation-Limited Fiber Length with budget equation is calculated and verified successfully
