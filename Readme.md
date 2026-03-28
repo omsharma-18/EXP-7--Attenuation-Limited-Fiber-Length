@@ -82,13 +82,28 @@ Your report should contain:
   |-------------------|-----------------------|----------|-----|
   
 
-- **Written Summary** of observations and explanations of differences.  
+- **Written Summary** of observations and explanations of differences.
+
+## BLOCK DIAGRAM 
+**Attenuation-Limited Fiber Length 2.5 GB**
+
+<img width="613" height="323" alt="image" src="https://github.com/user-attachments/assets/371e9e93-2acd-45fa-83da-b2dd0f356af2" />
+
+**Attenuation-Limited Fiber Length 10 GB**
+
+<img width="613" height="323" alt="image" src="https://github.com/user-attachments/assets/9f0926fd-cc04-4453-a2b0-076367d85153" />
+
+---
 
 ## Calculation and Tabulation
 
+<img width="1506" height="2560" alt="image" src="https://github.com/user-attachments/assets/dc6abf1f-055b-46bc-8a8e-02a6ed21dc5e" />
 <img width="735" height="1280" alt="image" src="https://github.com/user-attachments/assets/1a1ab31b-be03-4384-8508-f1be04fe4301" />
 <img width="740" height="1280" alt="image" src="https://github.com/user-attachments/assets/bc44e180-1ded-4dbc-9d07-c7e7ecc4f8c3" />
-<img width="1506" height="2560" alt="image" src="https://github.com/user-attachments/assets/dc6abf1f-055b-46bc-8a8e-02a6ed21dc5e" />
 
+## MODEL GRAPH
+<img width="1125" height="388" alt="image" src="https://github.com/user-attachments/assets/b4185cb3-b914-453d-833e-b558925e1840" />
+
+---
 ## Result 
 Thus Attenuation-Limited Fiber Length with budget equation is calculated and verified successfully
